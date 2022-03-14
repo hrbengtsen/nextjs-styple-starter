@@ -2,7 +2,7 @@
   <img alt="nextjs styple starter hero image" src="public/starter-og.png">
 </a>
 
-# **Nextjs styple starter**
+# **Next.js styple starter**
 
 ## Installing
 
