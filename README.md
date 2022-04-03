@@ -9,9 +9,9 @@
 To use this starter project run:
 
 ```bash
-npx create-next-app [project-name] -e https://github.com/hrbengtsen/nextjs-styple-starter.git
+npx create-next-app [project-name] -e https://github.com/hrbengtsen/nextjs-styple-starter
 # or
-yarn create next-app [project-name] -e https://github.com/hrbengtsen/nextjs-styple-starter.git
+yarn create next-app [project-name] -e https://github.com/hrbengtsen/nextjs-styple-starter
 ```
 
 ## Getting Started
